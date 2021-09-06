@@ -1,2 +1,5 @@
 # Gold-Price-Prediction
-Gold price prediction 
+Gold price prediction
+
+ IDE GOOGLE COLAB
+ LANGUAGE PYTHON
